@@ -29,7 +29,7 @@ To get a local copy of this project up and running, follow these steps:
    git clone https://github.com/nayemislam33046/e-commerce.git
 
 2. ### **install node_module**
-first of all for install node_module and all dependencies you should use the command - **npm init** 
+first of all for install node_module and all dependencies you should use the command - **npm install** 
 
 3. ### **Start Live Server**
   for starting the live server. you can use this command - **npm run dev**
