@@ -2,8 +2,6 @@
 
 Welcome to the E-Commerce Frontend Page project! This repository contains the code for a modern, responsive e-commerce frontend page designed to showcase products, handle user interactions, and provide a seamless shopping experience.
 
-## Here [Live Website Link](https://ecommerce-site-ashy.vercel.app/)
-
 ## Features
 
 - **Responsive Design**: Optimized for both desktop and mobile devices to ensure a great user experience across different screen sizes.
