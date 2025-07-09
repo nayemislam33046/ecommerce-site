@@ -24,7 +24,7 @@ To get a local copy of this project up and running, follow these steps:
 1. ### **Clone the Repository**
 
    ```bash
-   git clone https://github.com/nayemislam33046/e-commerce.git
+   git clone https://github.com/nayemislam33046/ecommerce-site.git
 
 2. ### **install node_module**
 first of all for install node_module and all dependencies you should use the command - **npm install** 
