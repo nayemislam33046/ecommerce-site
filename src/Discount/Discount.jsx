@@ -1,6 +1,6 @@
 import React from "react";
-import Man from "../../public/Man.jpg";
-import shopping from "../../public/Shopping.jpg";
+import Man from "./assets/Man.jpg";
+import shopping from "./assets/Shopping.jpg";
 const Discount = () => {
   return (
     <div className="my-12 md:flex md:items-center md:justify-between lg:justify-around xl:justify-evenly gap-5">

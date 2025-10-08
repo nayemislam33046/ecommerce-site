@@ -5,7 +5,7 @@ export const ThemeContext = createContext();
 export const ThemeProvider = ({ children }) => {
   const [getData, setgetData] = useState([]);
   const port = import.meta.env.VITE_PORT
-  const Api = `${port}/Api`;
+  const Api = `${port}/api`;
   const getProduct = async (Api) => {
     const res = await axios.get(Api);
     const data = await res.data;

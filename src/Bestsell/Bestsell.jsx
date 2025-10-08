@@ -16,7 +16,7 @@ const Bestsell = () => {
     <div className="my-20">
       <p className="my-3 text-3xl">Daily Best Sells</p>
       <div className="flex lg:justify-around gap-2 flex-col lg:flex-row">
-        <div className='bg-[url("https://i.pinimg.com/236x/31/7d/3b/317d3bbbb57f1562dd7807aa14668801.jpg")] bg-no-repeat h-[70vh] lg:w-[16rem] rounded-md overflow-hidden p-5 xsm:p-10 sm:p-20 lg:p-5 bg-cover bg-center'>
+        <div className='bg-[url(https://i.pinimg.com/236x/31/7d/3b/317d3bbbb57f1562dd7807aa14668801.jpg)] bg-no-repeat h-[70vh] lg:w-[16rem] rounded-md overflow-hidden p-5 xsm:p-10 sm:p-20 lg:p-5 bg-cover bg-center'>
           <h1 className="sm:text-5xl text-2xl lg:text-2xl text-white font-bold">
             100% Organic Coffee Beans.
           </h1>

@@ -6,7 +6,7 @@ import Myimg from "./Myimg";
 import Rating from "../Rating";
 const Details = () => {
   const { id } = useParams();
-  const [productData, setproductData] = useState([]);
+  const [productData, setproductData] = useState({});
   const [selectSize, setSelectSize] = useState("M");
   const { Api, state, dispatch } = useContext(ThemeContext);
   const { title, image, price, category, rating, description } = productData;
@@ -20,7 +20,7 @@ const Details = () => {
   }, [Api]);
   return (
     <div>
-      {productData.id === id ? (
+      {Number(productData?.id) === Number(id) ? (
         <div className="py-16">
           <div className="flex md:items-start justify-center flex-col md:flex-row gap-12 p-10 ">
             <div>
