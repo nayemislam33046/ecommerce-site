@@ -1,5 +1,5 @@
 {
-  "name": "myapp",
+  "name": "Ecommerce-Site",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,6 @@
     "dev": "vite",
     "build": "tailwindcss -i App.css -o ./css/App.min.css --minify build",
     "watch": "tailwindcss -i App.css -o ./css/App.min.css --watch",
-    "server": "json-server --watch ./src/db.json",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
