@@ -35,6 +35,6 @@ first of all for install node_module and all dependencies you should use the com
 4. ### **Start Local Api** 
 To start the local API which I have made locally you can use the command - **npm run server**
 
-This is (Live Link)[https://projecteccomerce.netlify.app]
+This is [Live Link](https://projecteccomerce.netlify.app)
 
 ##  *Thank you*
